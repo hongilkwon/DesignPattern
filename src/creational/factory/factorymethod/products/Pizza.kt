@@ -1,4 +1,4 @@
-package creational.factory.factorymethod.product
+package creational.factory.factorymethod.products
 
 
 abstract class Pizza {

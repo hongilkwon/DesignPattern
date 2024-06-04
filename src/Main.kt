@@ -1,5 +1,5 @@
-import creational.factory.factorymethod.creator.CheesePizzaStore
-import creational.factory.factorymethod.creator.PepperoniPizzaStore
+import creational.factory.factorymethod.creators.CheesePizzaStore
+import creational.factory.factorymethod.creators.PepperoniPizzaStore
 
 fun main() {
     val cheesePizzaStore = CheesePizzaStore().orderPizza()

@@ -1,7 +1,7 @@
-package creational.abstractfactory.creators
+package creational.factory.abstractfactory.creators
 
-import creational.abstractfactory.products.CPU
-import creational.abstractfactory.products.GPU
+import creational.factory.abstractfactory.products.CPU
+import creational.factory.abstractfactory.products.GPU
 
 
 abstract class Company {

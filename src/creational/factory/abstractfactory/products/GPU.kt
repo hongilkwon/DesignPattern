@@ -1,4 +1,4 @@
-package creational.abstractfactory.products
+package creational.factory.abstractfactory.products
 
 
 interface GPU {

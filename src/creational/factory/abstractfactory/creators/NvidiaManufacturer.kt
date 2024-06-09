@@ -1,6 +1,6 @@
-package creational.abstractfactory.creators
+package creational.factory.abstractfactory.creators
 
-import creational.abstractfactory.products.*
+import creational.factory.abstractfactory.products.*
 
 class NvidiaManufacturer : Company() {
     override fun createCPU(): CPU = NvidiaCpu()
